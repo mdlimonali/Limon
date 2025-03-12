@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
+    <h1>Naruto fan</h1>
     <input type="file" id="upload" accept="image/*">
     <img id="preview" src="" alt="Your Image">
     <script src="script.js"></script>
